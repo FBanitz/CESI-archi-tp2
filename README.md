@@ -1,4 +1,4 @@
-# CESI MAALSI Essentiels de l'architecture du SI - TP1
+# CESI MAALSI Essentiels de l'architecture du SI - TP2
 > Configuration automatisée d'une application web avec Vagrant
 
 ## Installation
