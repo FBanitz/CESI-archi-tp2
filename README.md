@@ -2,8 +2,8 @@
 > Configuration automatisée d'une application web avec Vagrant
 
 ## Installation
-Install [Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
-Install VM provider (ex: [Oracle VirtualBox](https://www.virtualbox.org/))
+- Install [Vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
+- Install VM provider (ex: [Oracle VirtualBox](https://www.virtualbox.org/))
 
 ## Init new project
 `vagrant init`
